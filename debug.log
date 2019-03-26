@@ -1,0 +1,12 @@
+[0131/143431.365:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0201/173500.356:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0204/190729.269:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0205/001336.007:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0205/001336.008:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0205/001336.011:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0205/001336.011:ERROR:exception_snapshot_win.cc(88)] thread ID 28768 not found in process
+[0208/194351.055:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0208/194351.064:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0208/194351.064:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0208/194351.064:ERROR:exception_snapshot_win.cc(88)] thread ID 11948 not found in process
+[0208/200050.860:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
